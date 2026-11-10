@@ -1,7 +1,7 @@
 # Body-Performance
 
-###Información sobre el DataFrame:
-##Tamaño: (13388, 12)
+## Información sobre el DataFrame:
+# Tamaño: (13388, 12)
  #   Column                   Non-Null Count  Dtype  
 ---  ------                   --------------  -----  
  0   age                      13388 non-null  float64
@@ -17,4 +17,4 @@
  10  broad jump_cm            13388 non-null  float64
  11  class                    13388 non-null  object 
 
- Variable objetivo: class 
+## Variable objetivo: class 
