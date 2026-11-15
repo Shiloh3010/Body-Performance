@@ -1,4 +1,6 @@
 # Body-Performance
+# Integrantes:
+## Shiloh Martinez, Sergio Contreras, Juan Castro
 
 # Información sobre el DataFrame:
 
@@ -24,3 +26,5 @@
 ## Source Korea 
 #### Sports Promotion Foundation
 
+## Descripción del dataset
+### El dataset proporciona mediciones de diversas métricas fisiológicas y de rendimiento tomadas a una muestra de deportistas de Corea del Sur. Los datos son administrados por la Fundación Coreana para la Promoción del Deporte con motivo de la conmemoración de los Juegos Olímpicos de Seúl.
