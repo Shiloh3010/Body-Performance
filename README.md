@@ -1,4 +1,4 @@
-![Banner Performance](<C:\Users\shilo\Downloads\banner performance.jpg>)
+![Banner Performance](banner%20performance.jpg)
 # Body-Performance
 # Integrantes:
 ### Shiloh Martinez, Sergio Contreras, Juan Castro
