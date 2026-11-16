@@ -35,4 +35,5 @@
 #### Clasificación binaria: alto (A y B) frente a bajo (C y D)
 #### Regresión: estimar el porcentaje de grasa corporal
 #### Comparar los modelos vistos en clase: Naive Bayes, árbol, Random Forest, SVM y SVR
+#### Comparar además de los modelos de manera general, ya lo que se halla con los modelos de regresión vs los de clasificaión.
 
