@@ -29,3 +29,10 @@
 
 ## Descripción del dataset
 #### El dataset proporciona mediciones de diversas métricas fisiológicas y de rendimiento tomadas a una muestra de deportistas de Corea del Sur. Los datos son administrados por la Fundación Coreana para la Promoción del Deporte(Korea Sports Promotion Foundation) con motivo de la conmemoración de los Juegos Olímpicos de Seúl.
+
+## Problema y objetivos:
+#### ¿Podemos predecir la clase de rendimiento (A, B, C, D) con mediciones corporales y pruebas físicas?
+#### Clasificación binaria: alto (A y B) frente a bajo (C y D)
+#### Regresión: estimar el porcentaje de grasa corporal
+#### Comparar los modelos vistos en clase: Naive Bayes, árbol, Random Forest, SVM y SVR
+
